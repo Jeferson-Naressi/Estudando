@@ -1,0 +1,15 @@
+C:\Users\Jeferson\Desktop\Estudando\bin\Debug\net8.0\Estudando.exe
+C:\Users\Jeferson\Desktop\Estudando\bin\Debug\net8.0\Estudando.deps.json
+C:\Users\Jeferson\Desktop\Estudando\bin\Debug\net8.0\Estudando.runtimeconfig.json
+C:\Users\Jeferson\Desktop\Estudando\bin\Debug\net8.0\Estudando.dll
+C:\Users\Jeferson\Desktop\Estudando\bin\Debug\net8.0\Estudando.pdb
+C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\Estudando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\Estudando.AssemblyInfoInputs.cache
+C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\Estudando.AssemblyInfo.cs
+C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\Estudando.csproj.CoreCompileInputs.cache
+C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\Estudando.sourcelink.json
+C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\Estudando.dll
+C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\refint\Estudando.dll
+C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\Estudando.pdb
+C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\Estudando.genruntimeconfig.cache
+C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\ref\Estudando.dll
