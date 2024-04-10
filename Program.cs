@@ -16,12 +16,6 @@ class Program
         itens.Add(nome1);
         itens.Add(nome2);
         itens.Add(nome3);
-
-        for (int contato = 0; contato < itens.Count ; contato++)
-        {
-         Console.WriteLine($"- {itens[contato]}");  
-        }
-
         // Exibe a lista de itens
         Console.WriteLine("Lista de itens:");
         foreach (string item in itens)
