@@ -11,7 +11,7 @@ class Program
         // TODO: Solicite os itens ao usuário
         for (int contato = 0; contato < 3 ; contato++)
         {
-            Console.WriteLine("Digite seu nome: ");
+            Console.Write("Digite seu nome: ");
             string nome = string.Concat(Console.ReadLine());
             itens.Add(nome);
         }
