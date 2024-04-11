@@ -1,4 +1,4 @@
-//Para comentaria varias linhas use Ctrl+K+C e 
+//Para comentaria varias linhas use Ctrl+K+C e para descomentar Ctrl+; 
 using System;
 using System.Collections.Generic;
 
