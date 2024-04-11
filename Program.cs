@@ -1,3 +1,4 @@
+//Para comentaria varias linhas use Ctrl+K+C e 
 using System;
 using System.Collections.Generic;
 
