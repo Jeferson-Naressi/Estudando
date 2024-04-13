@@ -23,11 +23,11 @@ class Program
             itens.Add(nome);
         }
 
-//         // Exibe a lista de itens
-//         Console.WriteLine("Lista de itens:");
-//         foreach (string item in itens)
-//         {
-//             Console.WriteLine($"- {item}"); 
-//         }
-//     }
-// }
+        // Exibe a lista de itens
+        Console.WriteLine("Lista de itens:");
+        foreach (string item in itens)
+        {
+            Console.WriteLine($"- {item}"); 
+        }
+    }
+}
