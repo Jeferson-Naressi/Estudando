@@ -4,10 +4,6 @@ using System.Collections.Generic;
 using System.Reflection.Metadata.Ecma335;
 
 
-public class Pessoa ()
-{
-}
-
 class Program
 {
     static void Main(string[] args)
