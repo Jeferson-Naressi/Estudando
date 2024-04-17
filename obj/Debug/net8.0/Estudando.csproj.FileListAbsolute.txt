@@ -13,3 +13,6 @@ C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\refint\Estudando.dll
 C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\Estudando.pdb
 C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\Estudando.genruntimeconfig.cache
 C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\ref\Estudando.dll
+C:\Users\Jeferson\Desktop\Estudando\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\Estudando.csproj.AssemblyReference.cache
+C:\Users\Jeferson\Desktop\Estudando\obj\Debug\net8.0\Estudando.csproj.CopyComplete
