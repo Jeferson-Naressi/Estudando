@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeferson\\Desktop\\Estudando\\Estudando.csproj",
+      "projectUniqueName": "C:\\Users\\Jeferson\\Desktop\\C#\\Estudando\\Estudando.csproj",
       "projectName": "Estudando",
-      "projectPath": "C:\\Users\\Jeferson\\Desktop\\Estudando\\Estudando.csproj",
+      "projectPath": "C:\\Users\\Jeferson\\Desktop\\C#\\Estudando\\Estudando.csproj",
       "packagesPath": "C:\\Users\\Jeferson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeferson\\Desktop\\Estudando\\obj\\",
+      "outputPath": "C:\\Users\\Jeferson\\Desktop\\C#\\Estudando\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jeferson\\AppData\\Roaming\\NuGet\\NuGet.Config"

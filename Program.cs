@@ -4,26 +4,46 @@ using System.Collections.Generic;
 using System.Reflection.Metadata.Ecma335;
 using Newtonsoft.Json;
 
-// class Program
-// {
-//     static bool VerificarAtributo(string atributo, int valorMinimo, int valorMaximo, int valorAtributo)
-//     {
-//         if (valorAtributo >= valorMinimo && valorAtributo <= valorMaximo){
-//             return "O valor do atributo está dentro do intervalo especificado";
-//         }else "O valor do atributo está fora do intervalo especificado";
-//     }
-    
-//     static void Main(string[] args)
-//     {
-//         string atributo = Console.ReadLine();
+using System;
+using System.Security.Cryptography.X509Certificates;
 
-//         int valorMinimo = int.Parse(Console.ReadLine());
+public class Robo
+{
+    private string nome;
+    private string modelo;
+    private int anoFabricacao;
 
-//         int valorMaximo = int.Parse(Console.ReadLine());
+    public Robo(string nome, string modelo, int anoFabricacao)
+    {
+        this.nome = nome;
+        this.modelo = modelo;
+        this.anoFabricacao = anoFabricacao;
+    }
 
-//         int valorAtributo = int.Parse(Console.ReadLine());
+    public  void ExibirInformacoes()
+    {
+        //TODO: Imprimir as informações de acordo com o enunciado deste desafio.
+        Console.WriteLine($"O robô {nome}, modelo {modelo}, foi fabricado em {anoFabricacao}.");
+    }
+}
 
-//         VerificarAtributo(atributo, valorMinimo, valorMaximo, valorAtributo);
-//     }
-// }
+class Program
+{
+    static void Main(string[] args)
+    {
+        string nome, modelo;
+        int anoFabricacao;
+        
+        nome = "Robozão";
+        modelo = "RBZ1000";
+        anoFabricacao = 2022 ;
 
+    //TODO: Instanciar um Robo passando os valores lidos em seu construtor.
+    Robo robo = new Robo(nome, modelo, anoFabricacao);
+    robo.ExibirInformacoes();
+
+    //TODO: Invocar o método "exibirInformacoes".
+
+
+    }
+}

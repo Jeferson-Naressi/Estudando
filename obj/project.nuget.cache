@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gm+HYOdPHyEvuZcI/YTTBTs7bZy35wdj9fNhQSyDg8jjkjTnqoyrA7EDfIf6FJevly7vw2mTxn5Yepbcm3xh2A==",
+  "dgSpecHash": "jANfdg0ziHu/FZiQ9vDSGCrjn/FhOja3hQnW/QNWrPpUvmpUsNs+nEz7L4131zl4ck+1DkChVsAoDGes/W7bjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jeferson\\Desktop\\Estudando\\Estudando.csproj",
+  "projectFilePath": "C:\\Users\\Jeferson\\Desktop\\C#\\Estudando\\Estudando.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jeferson\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
